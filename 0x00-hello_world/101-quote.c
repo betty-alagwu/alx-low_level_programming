@@ -1,12 +1,12 @@
 #include <stdio.h>
 
 /** 
- * main - entry point
+ * main - Entry point
  *
  * Description - C program description
  *
- * Return - 1 (success)
-*/
+ * Return - Always 1 (success)
+ */
 
 int main(void)
 {
