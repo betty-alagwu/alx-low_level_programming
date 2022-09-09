@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/** 
+/**
  * main - Entry point
  *
  * Description - C program description
