@@ -3,7 +3,7 @@
 /**
  * main - Entry point
  *
- * Description - Prints all single digit numbers of base 10 starting from 0.
+ * Description: 'program to print lowercase aphabets'
  *
  * Return - Always 0
  */
