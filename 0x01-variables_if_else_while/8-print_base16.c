@@ -1,11 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - Entry point
+ * main - Prints all the numbers of base 16 in lowercase.
  *
- * Description: 'program to print lowercase aphabets in reverse'
- *
- * Return - Always 0
+ * Return: Always 
  */
 int main(void)
 {
