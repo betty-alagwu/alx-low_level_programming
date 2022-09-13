@@ -1,5 +1,11 @@
 #include <stdio.h>
 
+/**
+ * main - prints "_putchar" followed by a new plan
+ *
+ * Return - Always 0.
+ */
+
 int main(void)
 {
 	putchar('_');
