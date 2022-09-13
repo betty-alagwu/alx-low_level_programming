@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * print_alphabet - prints the alphabet in uppercase, followed by a new line.
+ * print_alphabet_x10 - prints the alphabet in uppercase, followed by a new line.
  */
 void print_alphabet_x10(void)
 {
-	int count;
+	int count = 0;
 	char ch;
 
 	while (count++ <= 9)
