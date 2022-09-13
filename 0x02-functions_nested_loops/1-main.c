@@ -1,12 +1,12 @@
-#ifndef MAIN_H
-#define MAIN_H
+#include "main.h"
 
 /**
  * File - main.h
  *
- * description: file containing declarations for all functions
+ * Return - Always 0.
  */
-
-void print_alphabet(void);
-
-#endif
+int main(void)
+{
+	print_alphabet();
+	return (0);
+}
