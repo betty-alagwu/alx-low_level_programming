@@ -1,7 +1,9 @@
 #include "main.h"
 
 /**
- * main - prints "_putchar" followed by a new plan
+ * main - entering point
+ *
+ * description -  prints "_putchar" followed by a new line
  *
  * Return - Always 0.
  */
