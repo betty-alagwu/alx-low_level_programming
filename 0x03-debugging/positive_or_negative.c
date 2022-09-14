@@ -9,7 +9,6 @@
  *
  * Return: Always 0 (Success)
  */
-
 void positive_or_negative(int n)
 {
 if (n > 0)
