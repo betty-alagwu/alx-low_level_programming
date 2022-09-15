@@ -5,7 +5,6 @@
  *
  * description - header file containing declaration for all for all functions
  */
-
 int _isupper(int c);
 int _isdigit(int c);
 
