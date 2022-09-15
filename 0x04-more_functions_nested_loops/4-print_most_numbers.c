@@ -3,7 +3,6 @@
 /**
  * print_most_numbers - Prints the numbers from 0-9 except 2 amd 4.
  */
-
 void print_most_numbers(void)
 {
 	int num;
