@@ -41,5 +41,6 @@ size_t free_listint_safe(listint_t **h);
 listint_t *find_listint_loop(listint_t *head);
 void free_listadd(listadd_t *head);
 listadd_t *add_nodeaddress(listadd_t **head, const listint_t *address);
+listint_t *find_listint_loop(listint_t *head);
 
 #endif
